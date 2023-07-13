@@ -1,0 +1,7 @@
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\bin\Debug\DAL.dll
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\bin\Debug\DAL.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\bin\Debug\Models.dll
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\bin\Debug\Models.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\obj\Debug\DAL.dll
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\obj\Debug\DAL.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

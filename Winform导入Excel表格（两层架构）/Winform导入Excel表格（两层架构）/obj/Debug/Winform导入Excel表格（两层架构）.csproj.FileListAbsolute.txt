@@ -1,0 +1,13 @@
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\Winform导入Excel表格（两层架构）.exe.config
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\Winform导入Excel表格（两层架构）.exe
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\Winform导入Excel表格（两层架构）.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\obj\Debug\Winform导入Excel表格_两层架构_.Properties.Resources.resources
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\obj\Debug\Winform导入Excel表格（两层架构）.csproj.GenerateResource.Cache
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\obj\Debug\Winform导入Excel表格（两层架构）.exe
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\obj\Debug\Winform导入Excel表格（两层架构）.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\DAL.dll
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\Models.dll
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\DAL.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\bin\Debug\Models.pdb
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\obj\Debug\Winform导入Excel表格_两层架构_.从Excel导入表格.resources
+D:\window\Visual Studio 2013\Projects\test\Winform导入Excel表格（两层架构）\Winform导入Excel表格（两层架构）\obj\Debug\Winform导入Excel表格（两层架构）.csprojResolveAssemblyReference.cache
